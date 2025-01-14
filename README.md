@@ -2,6 +2,13 @@
 
 This project is a responsive and reusable landing page built using React and Vite. The application is structured with various components like Navbar, Header, Services, Features, Reviews, and Call to Action, making it easy to maintain and expand.
 
+## Live Link
+
+You can view a live link of the project [Live Link](https://abuiron-landing-page.netlify.app/).
+
+## Home Page
+ ![HomePage](https://github.com/abuiron/react-landing-page/blob/main/public/front.png?raw=true)
+
 
 ## Table of Contents
 
@@ -14,10 +21,6 @@ This project is a responsive and reusable landing page built using React and Vit
   - [Reviews](#reviews)
   - [Call to Action](#call-to-action)
 
-
-## Demo
-
-You can view a live demo of the project [here](https://abuiron-landing-page.netlify.app/).
 
 ## Features
 
